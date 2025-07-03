@@ -73,12 +73,14 @@ All distributions appear symmetric based on density plots.
 
 ## 📦 Repository Structure
 
+'''
 bayesian-admission-analysis/
 ├── data/ # Dataset file (CSV)
 ├── notebooks/ # Jupyter Notebooks or Rmd files for analysis
 ├── results/ # Graphs and posterior plots
 ├── report/ # Final PDF report
 ├── README.md # Project summary (this file)
+'''
 
 ---
 
